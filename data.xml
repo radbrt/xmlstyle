@@ -1,0 +1,24 @@
+<root>
+  <Header>
+  </Header>
+  <DetailRecord>
+    <CustomerNumber>1</CustomerNumber>
+    <DetailSubRecord>
+      <Address>London</Address>
+    </DetailSubRecord>
+    <DetailSubRecord>
+      <Address>Hull</Address>
+    </DetailSubRecord>
+  </DetailRecord>
+  <DetailRecord>
+    <CustomerNumber>2</CustomerNumber>
+    <DetailSubRecord>
+      <Address>Birmingham</Address>
+    </DetailSubRecord>
+    <DetailSubRecord>
+      <Address>Manchester</Address>
+    </DetailSubRecord>
+  </DetailRecord>
+  <Footer>
+  </Footer>
+</root>
